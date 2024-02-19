@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+test
+#vs code
+build
+test*
+*.json
+.vscode
